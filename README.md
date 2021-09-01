@@ -1,2 +1,2 @@
 # IBM_DS_Course
-Repository to store IBM Data Science course files
+Repository to store IBM Data Science course related files
