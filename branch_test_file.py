@@ -1,1 +1,1 @@
-Added a new file to try out branch 
+Added a new file to check how branch works
